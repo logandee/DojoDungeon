@@ -1,0 +1,11 @@
+C:\Users\lotsa\Documents\CodingDojo\CSharp\DojoDungeon\obj\Debug\netcoreapp2.2\DojoDungeon.csprojAssemblyReference.cache
+C:\Users\lotsa\Documents\CodingDojo\CSharp\DojoDungeon\obj\Debug\netcoreapp2.2\DojoDungeon.csproj.CoreCompileInputs.cache
+C:\Users\lotsa\Documents\CodingDojo\CSharp\DojoDungeon\obj\Debug\netcoreapp2.2\DojoDungeon.AssemblyInfoInputs.cache
+C:\Users\lotsa\Documents\CodingDojo\CSharp\DojoDungeon\obj\Debug\netcoreapp2.2\DojoDungeon.AssemblyInfo.cs
+C:\Users\lotsa\Documents\CodingDojo\CSharp\DojoDungeon\bin\Debug\netcoreapp2.2\DojoDungeon.deps.json
+C:\Users\lotsa\Documents\CodingDojo\CSharp\DojoDungeon\bin\Debug\netcoreapp2.2\DojoDungeon.runtimeconfig.json
+C:\Users\lotsa\Documents\CodingDojo\CSharp\DojoDungeon\bin\Debug\netcoreapp2.2\DojoDungeon.runtimeconfig.dev.json
+C:\Users\lotsa\Documents\CodingDojo\CSharp\DojoDungeon\bin\Debug\netcoreapp2.2\DojoDungeon.dll
+C:\Users\lotsa\Documents\CodingDojo\CSharp\DojoDungeon\bin\Debug\netcoreapp2.2\DojoDungeon.pdb
+C:\Users\lotsa\Documents\CodingDojo\CSharp\DojoDungeon\obj\Debug\netcoreapp2.2\DojoDungeon.dll
+C:\Users\lotsa\Documents\CodingDojo\CSharp\DojoDungeon\obj\Debug\netcoreapp2.2\DojoDungeon.pdb
